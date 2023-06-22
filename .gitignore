@@ -130,3 +130,9 @@ dmypy.json
 
 # Ignore SPSS files.
 *.sav
+
+# Ignore CSV files.
+*.csv
+
+# Ignore JSON files.
+*.json
